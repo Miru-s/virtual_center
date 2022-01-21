@@ -50,7 +50,7 @@ ____________________
    :caption: Algorithms
 
    algorithms
-   AlgoDocs
+   algodocs
 
 
 
