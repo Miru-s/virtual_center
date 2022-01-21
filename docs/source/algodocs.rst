@@ -4,21 +4,14 @@ Algorithms Documents
 .. contents:: **Table of Contents**
 
 *Vanilla Policy Gradient
-    *Background
-        *Quick Facts
-        *Key Equations
-        *Exploration vs. Exploitation
-        *Pseudocode
+    *:ref:'Background <bg>'
+       
     *Documentation
-        *Documentation: PyTorch Version
-        *Saved Model Contents: PyTorch Version
-        *Documentation: Tensorflow Version
-        *Saved Model Contents: Tensorflow Version
+        
     *References
-        *Relevant Papers
-        *Why These Papers?
-        *Other Public Implementations
+       
 
+.. _bg:
 Background
 ____________________
 
